@@ -1,4 +1,4 @@
-:HL["/start-with-a-battery-site/_next/static/chunks/2k782x9c4q6b9.css","style"]
+:HL["/start-with-a-battery-site/_next/static/chunks/0s7iknk1_3qsb.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"LGwPi2fkQQ8PtKPBnlnFu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"7kufMxQ9VORyxc6K47XdE","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
